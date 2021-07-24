@@ -2,18 +2,18 @@
 @10000 = ~Portraits Portraits Everywhere (PPE) - Composant principal~
 @11100 = ~Portraits des compagnons de BG2~
 @11110 = ~Utiliser les portraits d'Isandir pour le CHARNAME~
-@11120 = ~Replacer les portraits en basse qualité de TOB & SOA~
+@11120 = ~Replacer les portraits en basse qualite de TOB & SOA~
 @11125 = ~Edwin/Edwina~
 @11130 = ~Ust Natha Drow NPCs~
 @11135 = ~Vampire NPCs~
-@13000 = ~Catégorie de portraits (Recommandé)~
+@13000 = ~Categorie de portraits (Recommande)~
 //messages during installation
 @90001 = ~Veuillez patienter, cela peut durer un moment......~
 @90002 = ~ APPLIED PORTRAITS TO %s9total% ACTORS~
 @90010 = ~Ce mod requiert BG:EE, BG2:EE, IWD:EE or EET~
 @90020 = ~Ce mod requiert BG1:EE, SOD or EET~
 @90030 = ~Ce mod requiert BG2:EE or EET~
-@90040 = ~Des composants dupliqués de BG2_Tweaks ont été détécté~
+@90040 = ~Des composants dupliques de BG2_Tweaks ont ete detecte~
 @90050 = ~Ce composant est incompatible avec IWDEE~
 @90999 = ~Ce composant requiert le composant principal!~
 //component types
