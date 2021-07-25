@@ -2,7 +2,7 @@
 Portraits Portraits Everywhere
 by Smeagolheart & bob_veng
 
-- Fork by https://forums.beamdog.com/profile/comments/skusha 
+- Fork by tipun & arcanecoast.ru
 - Updated portraits by https://forums.beamdog.com/profile/Greener
 - French translation by Daft Hunk
 
@@ -112,7 +112,7 @@ Gate Forums. The mod name came as a suggestion by Cahir. "Vampirized" NPC portra
 Version History:
 
 V1.02 24/07/2021
-- Added new content & russian translation: by skusha 
+- Added new content & russian translation: by tipun & arcanecoast.ru
 - Replaced some portraits with new one: by Greener
 - Added french translation: by Daft Hunk 
 
