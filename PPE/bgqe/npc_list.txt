@@ -1,0 +1,45 @@
+@10   = ~Alanna~
+@11   = ~Eltolth~
+@12   = ~Tulbor~
+
+@14   = ~Mme Dudley~
+@15   = ~M. Dudley~
+@16   = ~Annie Dudley~
+
+	@20   = ~Mme Boisnoir~
+@21   = ~Sarah~
+@22   = ~Tom~
+@23   = ~Tina~
+
+	@40   = ~Arnim~
+@41   = ~Dame von Undenzieht~
+@42   = ~Sire von Undenzieht~
+
+@44   = ~Dauron~
+@45   = ~Badaud~
+@46   = ~Mère de Luisa~
+@47   = ~Nounou~
+
+@49   = ~Leila~
+
+	@51   = ~Uguth~
+@52   = ~Viola~
+@53   = ~Mme Kenn~
+@54   = ~M. Kenn~
+
+	@57   = ~Sir Trun~
+	@58   = ~Linda~
+
+@62   = ~Hamster~
+@65   = ~Edward~
+
+67   = ~Combattant~
+
+@99   = ~Mage~
+@100  = ~Teodor~
+
+@117  = ~Hick~
+
+@2002    = ~Goule~
+
+@9002    = ~Sylar~

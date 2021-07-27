@@ -1,0 +1,61 @@
+/* Malaaq, the genie */
+idjinni.cre  
+  
+/* Hendron, Lady Delcia's guard */
+kpsold01.cre 
+
+/* Hannah, the circus attendant */
+kftown01.cre 
+
+/* Lellyn, Mazzy's fallen compatriot */
+lellyn.cre   
+  
+/* The omnipresent Town Crier Neckeith */
+townc01.cre  
+
+/* Shadow Thief Assassin */
+stass1.cre   
+  
+/* Shadow Thief Archer */
+starcher.cre 
+arnfgt03.cre 
+flyfgt03.cre 
+arnwar01.cre 
+irethf04.cre 				
+				
+/* Shadow Thief Footpad */
+arnwar04.cre 
+  
+/* Shadow Thief Thug */
+arnfgt04.cre 
+arnwar02.cre 
+				
+/* Shadow Thief Guard */
+flyfgt02.cre 
+  
+/* Shadow Thief Inquisitor */
+flyfgt04.cre 
+  
+/* Shadow Thief Battlemage */
+irethf05.cre 
+  
+/* Amon of the Purple Brotherhood */
+sevpat02.cre 
+    
+/* Alatelo De Bonito */
+sevdru01.cre 
+  
+/* Apprentice Torturer Douglas */
+arnboy01.cre 
+	
+/* Crazyface, Korgan's old cohort */
+korcrazy.cre 
+	
+/* Pimlico Guard */
+korpimg1.cre 
+	
+/* Maheer, the Blacksmith */
+shop3.cre  /* Kulyok */
+	
+/* Derrick, the ranger */
+valran01.cre 

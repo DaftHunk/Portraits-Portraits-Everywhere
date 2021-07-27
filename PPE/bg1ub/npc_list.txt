@@ -1,0 +1,92 @@
+	FTOBE2.CRE // AR3339
+	@27   = ~Kaitlin~
+
+	FTOBE3.CRE // AR3311
+	@28   = ~Malicia~
+
+	FTOBE4.CRE // AR3316
+	@29   = ~Henrette~
+
+	FTOBE9.CRE // AR3323
+	@30   = ~Sari~
+
+HAFFG2.CRE // Currently UNUSED
+@31   = ~Mabledale~
+
+HALFG2.CRE // Currently UNUSED
+@32   = ~Bunsen~
+
+	HALFG3.CRE // AR4008
+	@33   = ~Farthendell~
+
+	HALFG4.CRE // AR4007
+	@34   = ~Arlond~
+
+	HALFG5.CRE // AR4010
+	@35   = ~Joldenan~
+
+	HOUSG1.CRE // AR3320
+	@36   = ~Carl~
+
+	HOUSG2.CRE // AR3320
+	@37   = ~Jurgen~
+
+	MTBE2.CRE // AR3341
+	@38   = ~Berden~
+
+	MTBE3.CRE // AR3309
+	@39   = ~Dath~
+
+MTBE4.CRE // AR3309
+@40   = ~Solgen~
+
+	MTBE5.CRE // AR3317
+	@41   = ~Borland~
+
+	MTBE6.CRE // AR3319
+	@42   = ~Galteran~
+
+	MTBE7.CRE // AR3323
+	@43   = ~Davis~
+
+MTOWF2.CRE // AR2302
+@44   = ~Sherman~
+
+	NOBL4.CRE // AR2616
+	@45   = ~Thurston~
+
+	NOBL5.CRE // AR2617
+	@46   = ~Quincy~
+
+	NOBL6.CRE // AR2617
+	@47   = ~Christian~
+
+NOBL7.CRE // AR2302
+@48   = ~Marlon~
+
+NOBW8.CRE // AR0121
+@49   = ~Dame Areana~
+
+TRAVEL.CRE // Currently UNUSED
+@50   = ~Wade~
+
+GNOLL5.CRE // see its dialogue for name
+@51   = ~Ludrug~
+
+HUNTER.CRE // see his dialogue for name
+@52   = ~Ted~
+
+NOBW7.CRE // see her dialogue for name
+@53   = ~Sarah~
+
+LOUPGAR.CRE // only used from spell cast by Mendas
+@54   = ~Selaad Gan~
+
+BARWLF.CRE // Baresh as loup garou
+@55   = ~Baresh~
+
+AESEWLF.CRE // Daese as werewolf
+@56   = ~Daese~
+
+AISHWLF.CRE // Kaishas as loup garou
+@57   = ~Kaishas Gan~
