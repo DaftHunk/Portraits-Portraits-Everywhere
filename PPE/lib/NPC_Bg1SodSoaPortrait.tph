@@ -21,7 +21,7 @@ BEGIN
 			COPY ~%MOD_FOLDER%/tbl/VamPortraits.tbl~ ~%MOD_FOLDER%/tbl~
 				REPLACE_TEXTUALLY ~V%character%~ ~V%character%_%type%~
 		END
-		ACTION_IF FILE_EXISTS ( ~%MOD_FOLDER%/copy/BG2/drow_ext/K#D%drow%%extr%S%type%.bmp~ ) AND FILE_EXISTS ( ~%MOD_FOLDER%/copy/BG2/drow_ext/K#D%drow%%extr%M%type%.bmp~ ) BEGIN
+		ACTION_IF FILE_EXISTS ~%MOD_FOLDER%/copy/BG2/drow_ext/K#D%drow%%extr%S%type%.bmp~ AND FILE_EXISTS ~%MOD_FOLDER%/copy/BG2/drow_ext/K#D%drow%%extr%M%type%.bmp~ BEGIN
 			COPY ~%MOD_FOLDER%/copy/BG2/drow_ext/K#D%drow%%extr%S%type%.bmp~ ~%MOD_FOLDER%/copy/BG2/drow/K#D%drow%%extr%S.bmp~
 			     ~%MOD_FOLDER%/copy/BG2/drow_ext/K#D%drow%%extr%M%type%.bmp~ ~%MOD_FOLDER%/copy/BG2/drow/K#D%drow%%extr%M.bmp~
 		END
@@ -48,7 +48,7 @@ DEFINE_ACTION_MACRO ~longhair_aerie~ BEGIN
 	//COPY_EXISTING ~MISC01.ITM~ ~override/Aerie_longhair.xxx~
 	COPY ~%MOD_FOLDER%/tbl/VamPortraits.tbl~ ~%MOD_FOLDER%/tbl~
 		REPLACE_TEXTUALLY ~VAERIE~ ~VAerie_longhair~
-	ACTION_IF FILE_EXISTS ( ~%MOD_FOLDER%/copy/BG2/drow_ext/K#DaerS.bmp~ ) AND FILE_EXISTS ( ~%MOD_FOLDER%/copy/BG2/drow_ext/K#DaerM.bmp~ ) BEGIN
+	ACTION_IF FILE_EXISTS ~%MOD_FOLDER%/copy/BG2/drow_ext/K#DaerS.bmp~ AND FILE_EXISTS ~%MOD_FOLDER%/copy/BG2/drow_ext/K#DaerM.bmp~ BEGIN
 		COPY ~%MOD_FOLDER%/copy/BG2/drow_ext/K#DaerS.bmp~ ~%MOD_FOLDER%/copy/BG2/drow/K#DaerS.bmp~
 		     ~%MOD_FOLDER%/copy/BG2/drow_ext/K#DaerM.bmp~ ~%MOD_FOLDER%/copy/BG2/drow/K#DaerM.bmp~
 	END

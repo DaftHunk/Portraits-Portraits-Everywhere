@@ -199,21 +199,21 @@ BEGIN ~BG1 Portrait~
 	SUBCOMPONENT ~Change Viconia portraits~
 	DESIGNATED 310
 	INCLUDE ~%MOD_FOLDER%/lib/NPC_Bg1SodSoaPortrait.tph~
-	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "bg1" character = "VICON" suffbg1 = "IA" END
+	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "bg1" character = "VICONIA" suffbg1 = "IA" END
 BEGIN ~SOD Portrait~
 	GROUP @11100
 	REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet~ ~~
 	SUBCOMPONENT ~Change Viconia portraits~
 	DESIGNATED 311
 	INCLUDE ~%MOD_FOLDER%/lib/NPC_Bg1SodSoaPortrait.tph~
-	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "sod" character = "VICON" END
+	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "sod" character = "VICONIA" END
 BEGIN ~BG2 Portrait~
 	GROUP @11100
 	REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet~ ~~
 	SUBCOMPONENT ~Change Viconia portraits~
 	DESIGNATED 312
 	INCLUDE ~%MOD_FOLDER%/lib/NPC_Bg1SodSoaPortrait.tph~
-	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "bg2" character = "VICON" END
+	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "bg2" character = "VICONIA" END
 
 /* JAHEIRA */
 BEGIN ~BG1 Portrait~
@@ -222,14 +222,14 @@ BEGIN ~BG1 Portrait~
 	SUBCOMPONENT ~Change Jaheira portraits~
 	DESIGNATED 320
 	INCLUDE ~%MOD_FOLDER%/lib/NPC_Bg1SodSoaPortrait.tph~
-	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "bg1" character = "JAHEIR" suffbg1 = "A" drow = "jah" END
+	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "bg1" character = "JAHEIRA" suffbg1 = "A" drow = "jah" END
 BEGIN ~BG2 Portrait~
 	GROUP @11100
 	REQUIRE_PREDICATE GAME_IS ~bgee bg2ee eet~ ~~
 	SUBCOMPONENT ~Change Jaheira portraits~
 	DESIGNATED 322
 	INCLUDE ~%MOD_FOLDER%/lib/NPC_Bg1SodSoaPortrait.tph~
-	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "bg2" character = "JAHEIR" END
+	LAF ~CR_NPC_Portrait~ INT_VAR vampire = 1 STR_VAR type = "bg2" character = "JAHEIRA" END
 
 /* MINSC */
 BEGIN ~BG1 Portrait~
