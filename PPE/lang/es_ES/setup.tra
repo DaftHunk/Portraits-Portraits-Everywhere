@@ -1,0 +1,21 @@
+//component names
+@10000 = ~Portraits Portraits Everywhere (PPE) - componente fundamental~
+@11100 = ~Retratos compañeros de BG2~
+@11110 = ~Retratos de CHARNAME de Isandir~
+@11120 = ~Reemplazar retratos TOB y SOA de baja calidad~
+@11125 = ~Edwin/Edwina~
+@11130 = ~PNJ Drow de Ust Natha ~
+@11135 = ~PNJ vampiros~
+@13000 = ~Categoría Retratos (Recomendado)~
+//messages during installation
+@90001 = ~Por favor sea paciente, esto puede tomar un tiempo......~
+@90002 = ~RETRATOS APLICADOS A %s9total% ACTORES~
+@90010 = ~Este mod requiere BG:EE, BG2:EE, IWD:EE o EET~
+@90020 = ~This mod requires BG1:EE, SOD or EET~
+@90030 = ~Este mod requiere BG2:EE o EET~
+@90040 = ~Componente duplicado detectado de BG2_Tweaks~
+@90050 = ~Este componente es incompatible con IWDEE~
+@90999 = ~¡Este componente requiere el componente principal!~
+//component types
+@20000 = ~Secuencial~
+@20050 = ~Aleatorio~
