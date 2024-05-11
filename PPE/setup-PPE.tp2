@@ -13,6 +13,10 @@ LANGUAGE ~French~
 	~fr_FR~
 	~PPE/lang/fr_FR/setup.tra~
 	~PPE/lang/fr_FR/vars.tra~
+LANGUAGE ~Spanish~
+	~es_EN~
+	~PPE/lang/es_EN/setup.tra~
+	~PPE/lang/es_EN/vars.tra~
 
 BEGIN @10000
 	REQUIRE_PREDICATE GAME_IS ~bgee bg2ee iwdee eet~ @90010
