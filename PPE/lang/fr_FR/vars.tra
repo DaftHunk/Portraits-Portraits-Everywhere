@@ -1,4 +1,4 @@
-@1000000  = ~Guardien~             //Guardian
+@1000000  = ~Gardien~              //Guardian
 @1000001  = ~Roturier~             //Commoner
 @1000002  = ~Capitaine~            //Captain
 @1000003  = ~Fermier~              //Farmer
@@ -13,7 +13,7 @@
 @1000012  = ~Apparition~           //Apparition
 @1000013  = ~Elfe~                 //Elf
 @1000014  = ~Elfe~                 //Elf
-@1000015  = ~Crois~                //Crusader
+@1000015  = ~Croisé~               //Crusader
 @1000016  = ~Vendeur~              //Storekeep
 @1000017  = ~Vendeur~              //Storekeep
 @1000018  = ~Marin~                //Sailor
@@ -163,7 +163,7 @@
 @1000162  = ~Yeoman~               //Yeoman
 @1000163  = ~Gentilhomme~          //Nobleman
 @1000164  = ~Homme serviable~      //Helpful Man
-@1000165  = ~Server~               //Waiter
+@1000165  = ~Serveur~              //Waiter
 @1000166  = ~Croupier~             //Gamesman
 
 
