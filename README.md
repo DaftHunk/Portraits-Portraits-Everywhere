@@ -110,6 +110,10 @@ Gate Forums. The mod name came as a suggestion by Cahir. "Vampirized" NPC portra
 ===================================================================================================================
 
 Version History:
+v1.03 31/12/2025
+- Added Spanish translation by @jascmm and corrected by @MinscyBubu
+- Fixed Ozil being a male
+- Some french's translation fixes by @GwendolyneFreddy
 
 V1.02 24/07/2021
 - Added new content & russian translation: by tipun & arcanecoast.ru
